@@ -1,0 +1,31 @@
+#use_frameworks!
+source 'https://github.com/CocoaPods/Specs.git'  # 官方库
+source 'https://github.com/TuyaInc/TuyaPublicSpecs.git'
+
+platform :ios, '9.0'
+
+target 'TuyaSmartiOSBizBundleDemo_Example' do
+  
+  # bizBundle
+  pod 'TuyaSmartCameraPanelBizBundle'
+  pod 'TuyaSmartCameraRNPanelBizBundle'
+  pod 'TuyaSmartPanelBizBundle'
+  pod 'TuyaSmartActivatorBizBundle'
+  pod 'TuyaSmartMallBizBundle'
+  pod 'TuyaSmartSceneBizBundle'
+  pod 'TuyaSmartMessageBizBundle'
+  pod 'TuyaSmartHelpCenterBizBundle'
+  # Demo
+  pod 'TuyaSmartDemo', :subspecs => [
+  'Login',
+  'DeviceList',
+  'AddDevice',
+  'SmartScene',
+  'UserInfo']
+
+  target 'TuyaSmartiOSBizBundleDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
