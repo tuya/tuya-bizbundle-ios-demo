@@ -155,7 +155,7 @@ PODS:
     - TYBlockKit (= 0.0.4)
     - TYBluetoothInterface (= 0.0.8)
     - TYConfigHub (= 1.0.5)
-    - TYDomainQueryModule (= 0.1.4)
+    - TYDomainQueryModule
     - TYEncryptImage (= 1.2.3.bizBundle.3.17.6)
     - TYFoundationKit (= 1.10.3)
     - TYHybridContainer (= 1.2.9.bizbundle.3.17.0)
@@ -267,7 +267,7 @@ PODS:
     - TYCameraUIKit (= 0.4.2.bizBundle.3.17.6)
     - TYConfigHub (= 1.0.5)
     - TYConfigHubModule (= 1.1.1)
-    - TYDomainQueryModule (= 0.1.4)
+    - TYDomainQueryModule
     - TYEncryptImage (= 1.2.3.bizBundle.3.17.6)
     - TYFoundationKit (= 1.10.3)
     - TYHybridContainer (= 1.2.9.bizbundle.3.17.0)
@@ -334,7 +334,7 @@ PODS:
     - TYCameraUIKit (= 0.4.2.bizBundle.3.17.6)
     - TYConfigHub (= 1.0.5)
     - TYConfigHubModule (= 1.1.1)
-    - TYDomainQueryModule (= 0.1.4)
+    - TYDomainQueryModule
     - TYEncryptImage (= 1.2.3.bizBundle.3.17.6)
     - TYFoundationKit (= 1.10.3)
     - TYHybridContainer (= 1.2.9.bizbundle.3.17.0)
@@ -363,11 +363,6 @@ PODS:
     - UICKeyChainStore
     - yoga (= 0.51.0.React.1)
     - YYModel
-  - TuyaSmartDemo/AddDevice (0.8.2):
-    - Masonry
-    - SDWebImage
-    - TuyaSmartActivatorKit
-    - TuyaSmartDemo/Base
   - TuyaSmartDemo/Base (0.8.2):
     - MBProgressHUD (~> 0.9.2)
     - Reachability
@@ -411,7 +406,7 @@ PODS:
     - TYBlockKit (= 0.0.4)
     - TYCommonDebugger (= 0.2.2)
     - TYConfigHub (= 1.0.5)
-    - TYDomainQueryModule (= 0.1.4)
+    - TYDomainQueryModule
     - TYEncryptImage (= 1.2.3.bizBundle.3.17.6)
     - TYFoundationKit (= 1.10.3)
     - TYHelpCenterModule (= 0.0.2)
@@ -460,7 +455,7 @@ PODS:
     - TYBlockKit (= 0.0.4)
     - TYConfigHub (= 1.0.5)
     - TYConfigHubModule (= 1.1.1)
-    - TYDomainQueryModule (= 0.1.4)
+    - TYDomainQueryModule
     - TYEncryptImage (= 1.2.3.bizBundle.3.17.6)
     - TYFoundationKit (= 1.10.3)
     - TYHybridContainer (= 1.2.9.bizbundle.3.17.0)
@@ -645,7 +640,7 @@ PODS:
     - TYBlockKit (= 0.0.4)
     - TYBluetoothInterface (= 0.0.8)
     - TYConfigHub (= 1.0.5)
-    - TYDomainQueryModule (= 0.1.4)
+    - TYDomainQueryModule
     - TYEncryptImage (= 1.2.3.bizBundle.3.17.6)
     - TYFoundationKit (= 1.10.3)
     - TYHomeDataManager (= 1.1.0)
@@ -817,7 +812,7 @@ PODS:
     - TYConfigHub
     - TYModuleServices
     - TYOEMConfig
-  - TYDomainQueryModule (0.1.4):
+  - TYDomainQueryModule (0.2.0):
     - TuyaSmartBaseKit
     - TYFoundationKit
     - TYKVStorageLibrary
@@ -1368,7 +1363,6 @@ DEPENDENCIES:
   - TuyaSmartActivatorBizBundle
   - TuyaSmartCameraPanelBizBundle
   - TuyaSmartCameraRNPanelBizBundle
-  - TuyaSmartDemo/AddDevice
   - TuyaSmartDemo/DeviceList
   - TuyaSmartDemo/Login
   - TuyaSmartDemo/SmartScene
@@ -1575,7 +1569,7 @@ SPEC CHECKSUMS:
   TuyaCameraSDK: 04056efc44f06d5eabdf693989e6d7ba7c84c189
   TuyaIntentKit: b6eedf4198dbd2f62e05f775f8c17bac2a4f3f56
   TuyaRNApi: fa11c4851270a7ffa28792154e30823bb1b0931f
-  TuyaSmartActivatorBizBundle: bee95684b2c9b36d9e1a38f9ca31d0015ad819e0
+  TuyaSmartActivatorBizBundle: 0dc052e3a53adf7cfb6cd8cffbbd494d459f3944
   TuyaSmartActivatorKit: a3a648c209046bf2fb6efb362fb82c0b6c075638
   TuyaSmartBaseKit: 7450992991c7ccff63d28b2994d9d08202b63e3e
   TuyaSmartBizCore: b4be6a15cb1c04a7a027b90a34cc6f13a1881a3a
@@ -1585,19 +1579,19 @@ SPEC CHECKSUMS:
   TuyaSmartCameraBizKit: adc0a53572a22ba708e40563ff4297f04b460e8d
   TuyaSmartCameraKit: f7609fd0ae5cebf21b823fbd6ca21812ac347a1d
   TuyaSmartCameraM: e98946f83e1f6249f3f233c6499330768f0123b3
-  TuyaSmartCameraPanelBizBundle: 709885f0291a9d6aa4992ce289c23c8a2c1e7fe7
-  TuyaSmartCameraRNPanelBizBundle: c60537d63b457f9b5a41316c8bab0fc63c3111a0
+  TuyaSmartCameraPanelBizBundle: d3918878e715747599a718d728e5017476f2f2c1
+  TuyaSmartCameraRNPanelBizBundle: cc89e7803dab3b3d93444ca5b180c3130cc5dfe0
   TuyaSmartDemo: febd147902591efd9cc4a8cbbc101bdb46eaf777
   TuyaSmartDeviceKit: 7649464a184017f5f35450c80c652bc83cf77a17
   TuyaSmartFeedbackKit: 88101dccbeeb1a17a93f2ee72bd9ae84d9ce7eb4
-  TuyaSmartHelpCenterBizBundle: 4df7678cf617b665b1717482a940f32224bfaaae
+  TuyaSmartHelpCenterBizBundle: e3a8f16171f5d29fb6f0a7362ff382a76d550920
   TuyaSmartHomeKit: 9005762ce67d39f9b5b8a4fd1ef95c0571cb571e
-  TuyaSmartMallBizBundle: ac5793d65bc7fa6638c4e180f7c9f7f3b67efe13
+  TuyaSmartMallBizBundle: 2558c6487636bff270e3e03003173f7d40fd5a63
   TuyaSmartMessageBizBundle: b635f4b7ff8ad9c6186d9ec7f5e277b5cfa48080
   TuyaSmartMessageKit: fef3924fdaaa14e9583e318eb489475f79543b5a
   TuyaSmartMQTTChannelKit: 40c98e2123e4c855c62fc6827052b6c63592058c
   TuyaSmartPanelBizBundle: 98f2914c3d07806a849874d1ec99263f53353d9d
-  TuyaSmartSceneBizBundle: 18a7056178bf4d2ca06ba58d66ec24805e77061f
+  TuyaSmartSceneBizBundle: 496dbe78bddaf3d0320e522b460d23514cc04b7f
   TuyaSmartSceneKit: 15c09cca13241b09a09d3334bd7c25c2d82ea0b8
   TuyaSmartSocketChannelKit: 49ae6cf90449fc8c9fb1e1735abd8f9e94314fe8
   TuyaSmartTimerKit: 3296a4e8ab503f6f6e84849591cfc3492c28a5ed
@@ -1617,7 +1611,7 @@ SPEC CHECKSUMS:
   TYCommonDebugger: b5367a8f3300390d333065be6ddc375370b3155d
   TYConfigHub: 0ee04f0d28d40ab5895855f1018db01c921f4124
   TYConfigHubModule: 70abc50318447dd571e771767e84dca21053d801
-  TYDomainQueryModule: 1c607ba947808d80a4dd4a9caec4632ae662cf0f
+  TYDomainQueryModule: 9a9cccfcfcc5287cd05a4f972fe9fd89682d1199
   TYEncryptImage: 22b4926d98ce877b2f89519b8e7fb6e662e3c39d
   TYFoundationKit: e90650d9d83389b9e5ad22fa66fd751ae7808582
   TYHelpCenterModule: de90c0036b0d6ca48f9d9b31f4c238f585cc46a4
@@ -1705,6 +1699,6 @@ SPEC CHECKSUMS:
   yoga: 4c6c522142cdf17dead62df6d73ae1dfe3770346
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
-PODFILE CHECKSUM: 812558ea500b2a4fc987f93239bdc916712ef2ac
+PODFILE CHECKSUM: fe9a180e9708dd5a6da01c2808206411d51e6aac
 
 COCOAPODS: 1.9.1

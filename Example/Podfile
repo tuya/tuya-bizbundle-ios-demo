@@ -19,7 +19,6 @@ target 'TuyaSmartiOSBizBundleDemo_Example' do
   pod 'TuyaSmartDemo', :subspecs => [
   'Login',
   'DeviceList',
-  'AddDevice',
   'SmartScene',
   'UserInfo']
 
