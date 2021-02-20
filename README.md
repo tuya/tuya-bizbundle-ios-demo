@@ -4,5 +4,5 @@ This demo is for reference only.
 
 For more information, please check the documentation below:
 
-* [English](https://tuyainc.github.io/tuyasmart_bizbundle_ios_doc/en/)
-* [简体中文](https://tuyainc.github.io/tuyasmart_bizbundle_ios_doc/zh-hans/)
+* [English](https://developer.tuya.com/en/docs/app-development/ios-bizbundle-sdk/introduction?id=Ka8j28bal9erw)
+* [简体中文](https://developer.tuya.com/cn/docs/app-development/ios-bizbundle-sdk/introduction?id=Ka8j28bal9erw)
